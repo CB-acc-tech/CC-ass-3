@@ -1,3 +1,6 @@
-a = input("Enter Your Name")
-
+a = input("Enter Your Name: ")
+b = input("Enter Your Class: ")
+c = int(input("Enter Your Roll No: "))
 print(a)
+print(b)
+print(c)
